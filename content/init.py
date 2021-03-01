@@ -1,5 +1,5 @@
-course_id = 'ai4eng.v1'
-github_id = 'ai4eng.v1'
+course_id = 'ai4eng.v1.20211.udea'
+github_id = 'ai4eng.v1.20211.udea'
 github_repo = 'rramosp/%s'%github_id
 zip_file_url="https://github.com/%s/archive/main.zip"%github_repo
 endpoint = 'https://m5knaekxo6.execute-api.us-west-2.amazonaws.com/dev-v0001/rlxmooc'

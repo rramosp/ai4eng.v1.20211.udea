@@ -5,7 +5,7 @@ author: Raúl Ramos / Universidad de Antioquia
 logo: content/local/imgs/fudea.jpg
 
 repository:
-   url: https://github.com/rramosp/ai4eng.v1
+   url: https://github.com/rramosp/ai4eng.v1.20211.udea
    branch: main
 
 launch_buttons:

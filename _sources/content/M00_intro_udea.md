@@ -13,8 +13,6 @@ Universidad de Antioquia, Medellín.</font>
 
 
 
-
-
 ## Horario de clases
     
         MARTES 10:00-12:00          JUEVES 10:00-12:00
@@ -27,8 +25,11 @@ Las sesiones se realizarán por Google Meet a través del siguiente enlace
 
 <br/>
 
-**NOTA**: Tienes que entrar con tu <font color="red"><b>USUARIO DE LA UDEA</b></font> con el que recibiste la invitación en Google Meet. No serán admitidos usuarios desde otras direcciones de correo.
+**NOTAS**
 
+- Tienes que entrar con tu <font color="red"><b>USUARIO DE LA UDEA</b></font> con el que recibiste la invitación en Google Meet. No serán admitidos usuarios desde otras direcciones de correo.
+
+- Durante las sesiones le daremos prioridad <font color='red'><b>A LAS PREGUNTAS que se FORMULEN PREVIAMENTE por MS TEAMS</b></font> en el canal llamado `preguntas para sesiones sincrónicas` en el orden en el que aparezcan.
 
 
 ## Evaluación

@@ -1,6 +1,6 @@
 # Información del curso
 
-Bienvenid@s al curso de **Inteligencia Artificial para las Ciencias y las Ingenierías**. Este es un <big><font color='red'>**CURSO ABIERTO**</font></big>, que está basado sobre el curso análogo que ofrecemos en la **Facultad de Ingeniería**, en la **Universidad de Antioquia**, en Medellín, Colombia.
+Bienvenid@s al curso de **Inteligencia Artificial para las Ciencias y las Ingenierías**. Este es el curso del <big><font color='red'>**PROGRAMA REGULAR**</font></big> de la **Facultad de Ingeniería**, en la **Universidad de Antioquia**, en Medellín, Colombia.
 
 <center>
 <iframe width="560" height="315"
@@ -9,10 +9,6 @@ frameborder="0"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 </center>
-
-## Registro
-
-Rellena <big>[ESTE FORMULARIO](https://forms.gle/ZbQBr2chpoEV2KD2A)</big> para acceder a las evaluaciones automáticas y en línea del curso y al certificado final del mismo.
 
 ## Dirigido a
 - quien tenga interés en <font color="red">**aplicar IA**</font> basada en Machine Learning en la práctica.
@@ -35,35 +31,30 @@ Diseñar y aplicar soluciones basadas en IA pasa por adquirir <font color="red">
 
 - Hay **dos tipos** de notebooks: (1) <font color='red'>**contenido y explicación**</font> que se usan para apoyar los conceptos que explicamos en los videos; y (2) <font color='red'>**laboratorios**</font> que tienes que resolver para consolidar tu aprendizaje.
 
-- <font color="red">**Podrás acceder**</font> a videos y notebooks de contenido y de talleres.
-
-- Si, además, te [registras en el curso](https://forms.gle/ZbQBr2chpoEV2KD2A) podrás tener una <font color='red'>**evaluación en línea**</font> de las soluciones que desarrolles para los laboratorios y un <font color='red'>**certificado del curso**</font> si lo pasas.
+- Tendrás una <font color='red'>**evaluación en línea**</font> de las soluciones que desarrolles para los laboratorios y un <font color='red'>**certificado del curso**</font> si lo pasas.
 - Revisa estos dos vídeos para ver cómo se interacciona con los materiales del curso:
     - **Trabajando con los materiales del curso** [Video 13mins](https://youtu.be/Rg0_9EBtUIc) 
     - **Talleres y plataforma de autocorrección** [Video 13mins](https://youtu.be/eISlF6k0y58)
 
-## Evaluación y certificado
+## Certificado
 
 
-- Para pasar el curso tendrás que solucionar al menos el <font color='red'>**90% de los ejercicios de los laboratorios**</font>. Cada ejercicio y laboratorio se califica con una nota entre 0 y 5. Por tanto, tendrás que tener una calificación <font color="red">**4.5 o mayor**</font> para pasar el curso y obtener el certificado.
+Al pasar el curso podrás descargarte un certificado del mismo. El certificado es emitido por nuestro grupo de investigación <font color='red'>**IN2LAB: Intelligent Information Systems Lab**</font> de la **Facultad de Ingeniería** de la **Universidad de Antioquia, Medellín, Colombia**, que está acreditado como **A1** ante el Ministerio de Ciencias, de Colombia. Los profesores que estamos al frente de este grupo somos:
 
+  - **Raúl Ramos Pollán**, Inteligencia artificial, Deep Learning. [google scholar](https://scholar.google.com/citations?user=QObKt9IAAAAJ&hl=en&oi=ao)
 
-- El certificado es emitido por nuestro grupo de investigación <font color='red'>**IN2LAB: Intelligent Information Systems Lab**</font> de la **Facultad de Ingeniería** de la **Universidad de Antioquia, Medellín, Colombia**, que está acreditado como **A1** ante el Ministerio de Ciencias, de Colombia. Los profesores que estamos al frente de este grupo somos:
+  - **Julián David Arias Londoño**, Machine Learning, Deep Learning. [google scholar](https://scholar.google.com/citations?hl=en&user=ZTdSU3wAAAAJ)
 
-    - **Raúl Ramos Pollán**, Inteligencia artificial, Deep Learning. [google scholar](https://scholar.google.com/citations?user=QObKt9IAAAAJ&hl=en&oi=ao)
+  - **John Freddy Duitama Muñoz**, Big Data, Procesamiento de grandes volúmenes de datos.
 
-    - **Julián David Arias Londoño**, Machine Learning, Deep Learning. [google scholar](https://scholar.google.com/citations?hl=en&user=ZTdSU3wAAAAJ)
+  - **Danny Múnera**, IoT, Procesamiento de Señal. [google scholar](https://scholar.google.com/citations?hl=en&user=lD1OxT0AAAAJ)
 
-    - **John Freddy Duitama Muñoz**, Big Data, Procesamiento de grandes volúmenes de datos.
-
-    - **Danny Múnera**, IoT, Procesamiento de Señal. [google scholar](https://scholar.google.com/citations?hl=en&user=lD1OxT0AAAAJ)
-
-    - **Diego Botia**, Ingeniería del Software. [google scholar](https://scholar.google.com/citations?hl=en&user=wzUb7TAAAAAJ)
+  - **Diego Botia**, Ingeniería del Software. [google scholar](https://scholar.google.com/citations?hl=en&user=wzUb7TAAAAAJ)
 
 
 ----
 
-[Descarga un ZIP con los notebooks del curso](https://github.com/rramosp/ai4eng.v1/archive/main.zip)
+[Descarga un ZIP con los notebooks del curso](https://github.com/rramosp/ai4eng.v1.20211.udea/archive/main.zip)
 
 ----
 

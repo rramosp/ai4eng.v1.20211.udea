@@ -19,9 +19,9 @@ Universidad de Antioquia, Medellín.</font>
 
 <br/>
 
-Las sesiones se realizarán por Google Meet a través del siguiente enlace 
+Las sesiones se realizarán por Zoom a través del siguiente enlace 
 
-<center><big><a href="https://meet.google.com/ouw-wxtt-aae">https://meet.google.com/ouw-wxtt-aae</a></big></center>
+<center><big><a href="https://udea.zoom.us/j/95023653667">https://udea.zoom.us/j/95023653667</a></big></center>
 
 <br/>
 

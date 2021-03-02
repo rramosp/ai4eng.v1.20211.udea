@@ -82,7 +82,7 @@ Tendrás que hacer un proyecto de analítica de datos para el cual deberás:
 
 Te recomendamos que:
 
-- Mires en [www.kaggle.com](www.kaggle.com) por ideas si no sabes qué hacer.
+- Mires en [www.kaggle.com](https://www.kaggle.com) por ideas si no sabes qué hacer.
 - Verifiques que los datos están disponibles antes de escoger tu proyecto.
 - Estimes los requerimientos computacionales para generar los modelos que necesites. Reduce el alcance de tu proyecto si lo necesitas (menos datos, menos clases, etc.).
 - Realices una primera iteración cuanto antes. Es decir, que llegues a tener un primer modelo **sencillo** produciendo predicciones. Implementa en esta primera iteración estrictamente lo que necesites para tener un modelo. El objetivo es resolver la mayoría de los problemas técnicos que te puedan surgir para ya, después, enfocarte en todo lo que quieras hacer en las siguientes iteraciones (preprocesado de datos, otros modelos, etc.)
@@ -103,7 +103,12 @@ Tendrás que hacer dos entregas del proyecto:
 
 ## AI for Everyone
 
-Deberás de completar el curso [AI for Everyone](https://www.deeplearning.ai/ai-for-everyone/). Y hacer un resumen del mismo.
+Deberás de completar el curso [AI for Everyone](https://www.deeplearning.ai/ai-for-everyone/) y hacer un resumen del mismo. El resumen deberá contener:
+
+- tres páginas como máximo
+- un párrafo por cada módulo del curso que decriba los puntos más importantes del mismo
+- un pantallazo en el que se vea que has visualizado los videos
+- una apreciación por tu parte acerca de la aplicabilidad de lo visto en el curso en proyectos relacionados con tu área de conocimiento.
 
 Deberás de depositar el resumen en un fichero llamado **RESUMEN_AI4EVERYONE.pdf** en la carpeta compartida del curso.
 

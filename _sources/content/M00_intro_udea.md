@@ -27,8 +27,6 @@ Las sesiones se realizarán por Zoom a través del siguiente enlace
 
 **Grabaciones**: Accede en [este enlace](http://ingeniaudea.edu.co/zoom-recordings/recordings/docenciaingenia52@udea.edu.co/95023653667/2021-02-28) al repositorio de grabaciones de las sesiones sincrónicas del curso.
 
-[2021-03-02](https://udea.zoom.us/rec/share/xhtzi92RP1RevjtMioIg3EBh00ffDNblji8fo0RVwwrO_-KecdqvIfPvwbMrrJuW.1jXQOkP0kGzZDeIE?startTime=1614698350000)
-
 **NOTAS**
 
 - Tienes que entrar con tu <font color="red"><b>USUARIO DE LA UDEA</b></font>. No serán admitidos usuarios desde otras direcciones de correo.

@@ -27,7 +27,7 @@ Las sesiones se realizarán por Zoom a través del siguiente enlace
 
 **NOTAS**
 
-- Tienes que entrar con tu <font color="red"><b>USUARIO DE LA UDEA</b></font> con el que recibiste la invitación en Google Meet. No serán admitidos usuarios desde otras direcciones de correo.
+- Tienes que entrar con tu <font color="red"><b>USUARIO DE LA UDEA</b></font>. No serán admitidos usuarios desde otras direcciones de correo.
 
 - Durante las sesiones le daremos prioridad <font color='red'><b>A LAS PREGUNTAS que se FORMULEN PREVIAMENTE por MS TEAMS</b></font> en el canal llamado `preguntas para sesiones sincrónicas` en el orden en el que aparezcan.
 
@@ -46,9 +46,9 @@ Las sesiones se realizarán por Zoom a través del siguiente enlace
         04/abr/2021    LABS 1-2
         18/abr/2021    PROYECTO ENTREGA 1
         02/may/2021    LABS 3-4
-        30/may/2021	   AI4Everyone
-        20/jun/2021	   LABS 5-6
-        11/jul/2021	   LAB 7
+        30/may/2021    AI4Everyone
+        20/jun/2021    LABS 5-6
+        11/jul/2021    LAB 7
         18/jul/2021    PROYECTO ENTREGA 2
 <br/>
 

@@ -6,7 +6,8 @@ Universidad de Antioquia, Medellín.</font>
 **2021 Semestre 1 - Universidad de Antioquia**
 
 - [PLATAFORMA DE CALIFICACIONES AUTOMÁTICAS](https://m5knaekxo6.execute-api.us-west-2.amazonaws.com/dev-v0001/rlxmooc/web/login)
-- [Solicitar inclusión en el grupo de Microsoft Teams del curso](https://teams.microsoft.com/l/team/19%3af52598ef79fb4f2f9c23d6a92a4fd2b9%40thread.tacv2/conversations?groupId=57154a3b-7f2b-4050-8479-600704f64983&tenantId=99e1e721-7184-498e-8aff-b2ad4e53c1c2). Quizá necesites [activar MS Teams en tu cuenta de la UdeA](http://www.udea.edu.co/wps/wcm/connect/udea/189893cf-94f2-4435-ad5b-6914d60bb1ad/DI-GI-IN-11%2B%281%29+%281%29.pdf?MOD=AJPERES&CVID=n5W8Iev)
+- [Solicitar inclusión en el grupo de Microsoft Teams del curso](https://teams.microsoft.com/l/team/19%3af52598ef79fb4f2f9c23d6a92a4fd2b9%40thread.tacv2/conversations?groupId=57154a3b-7f2b-4050-8479-600704f64983&tenantId=99e1e721-7184-498e-8aff-b2ad4e53c1c2). 
+     - <small>Quizá necesites [activar MS Teams en tu cuenta de la UdeA](http://www.udea.edu.co/wps/wcm/connect/udea/189893cf-94f2-4435-ad5b-6914d60bb1ad/DI-GI-IN-11%2B%281%29+%281%29.pdf?MOD=AJPERES&CVID=n5W8Iev)</small>
 - [REGISTRO DE GRUPOS DE PROYECTO](https://forms.gle/vEV7m9iVQhXGZ1QQ9) (solo un registro por grupo)
 
 

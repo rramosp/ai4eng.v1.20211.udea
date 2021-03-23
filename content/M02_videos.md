@@ -7,8 +7,8 @@
 
 - [https://realpython.com](https://realpython.com)
 - [https://www.coursera.org/specializations/python#course](https://www.coursera.org/specializations/python#course)
-- [https://www.edx.org/xseries/mitx-computational-thinking-using-python](https://www.edx.org/xseries/mitx-computational-thinking-using-python
-)
+- [https://www.edx.org/xseries/mitx-computational-thinking-using-python](https://www.edx.org/xseries/mitx-computational-thinking-using-python)
+- [Python for beginners (Full Course)](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
 
 
 **2.01 - Introducción a los Notebooks de Jupyter** [Video 13mins](https://youtu.be/AKvAD1aE-30) <br/> Describimos una de las herramientas que más se usa en ciencia de datos y sobre la que se basa este curso.

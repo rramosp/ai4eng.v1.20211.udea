@@ -102,6 +102,10 @@ Tendrás que hacer dos entregas del proyecto:
      - **Ejemplo 1**: nuestro modelo de predicción de la patología X en pacientes debería de tener un porcentaje de acierto >80%, pero también un false negative rate <5%, ya que es una patología grave y es preferible no fallar una detección de un paciente que verdaderamente tiene la patología, aunque eso implique que aumente el número de falsos positivos.
 
     - **Ejemplo 2**: según el departamento de marketing de cierta empresa, un modelo de predicción del siguiente producto que compre un cliente debería de tener un porcentaje de acierto de al menos 50%, ya que se usará el modelo para sugerir recomendaciones a los usuarios. Si el porcentaje de acierto es menor sería contraproducente porque perderíamos ventas.
+
+Como en cualquier proyecto de analítica, esto supone un **primer** criterio, que probablemente se refine o modifique según se avanza en el proyecto, se entiende mejor el posible desempeño de los modelos, con el cliente se va definiendo cómo se usan los modelos en producción/operación, etc.
+
+
 - **ENTREGA 2**: Un archivo llamado **PROYECTO_FASE2.pdf** en el que describas el resto de la ejecucióndel proyecto, con la evidencia necesaria. Tendrás que incluir una carpeta llamada **PROYECTO_FASE2_MATERIALES** donde incluyas todas las herramientas necesarias para reproducir los resultados que obtuviste (muestras de los datasets, notebooks, instrucciones de uso de las herramientas que hayas usado, etc.)
 
 **TODAS LAS ENTREGAS HAN DE DEPOSITARSE EN LA CARPETA DRIVE DE CADA ESTUDIANTE**.

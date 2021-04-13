@@ -97,7 +97,9 @@ Te recomendamos que:
 
 Tendrás que hacer dos entregas del proyecto:
 
-- **ENTREGA 1**: Un archivo llamado **PROYECTO_FASE1.pdf** en el que describas el problema predictivo a resolver, el dataset que vas a utilizar y las métricas de desempeño requeridas. Incluye igualmente un primer criterio sobre cual sería el desempeño deseable en producción. 
+- **ENTREGA 1**: Un archivo llamado **PROYECTO_FASE1.pdf** en el que (1) describas el problema predictivo a resolver, (2) el dataset que vas a utilizar, (3) las métricas de desempeño requeridas; y (4) un primer criterio sobre cual sería el desempeño deseable en producción. 
+
+Dos ejemplos del punto (4) anterior:
 
      - **Ejemplo 1**: nuestro modelo de predicción de la patología X en pacientes debería de tener un porcentaje de acierto >80%, pero también un false negative rate <5%, ya que es una patología grave y es preferible no fallar una detección de un paciente que verdaderamente tiene la patología, aunque eso implique que aumente el número de falsos positivos.
 

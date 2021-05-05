@@ -37,7 +37,6 @@
     - file: "content/NOTES 05.04 - EXAMPLE SUBMISSION TO KAGGLE"
     - file: "content/LAB 05.01 - MEASURING PREDICTIVITY IMPACT"
     - file: "content/LAB 05.02 - MODEL EVALUATION"
-
 - file: content/M06_videos
   sections:
     - file: "content/NOTES 06.01 - UNSUPERVISED LEARNING - CLUSTERING"
@@ -45,7 +44,6 @@
     - file: "content/NOTES 06.03 - DIMENSIONALITY REDUCTION"
     - file: "content/LAB 06.01 - CLUSTERING"
     - file: "content/LAB 06.02 - NMF face search"
-
 - file: content/M07_videos
   sections:
     - file: "content/NOTES 07.01 - OPTIMIZATION"
@@ -54,10 +52,3 @@
     - file: "content/NOTES 07.04 - NEURAL NETWORKS WITH TENSORFLOW"
     - file: "content/LAB 07.01 - OPTIMIZATION FOR ML"
     - file: "content/LAB 07.02 - NEURAL NETWORKS"
-
-
-
-
-
-
-
